@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\bin\Debug\SquareCalculatorApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\bin\Debug\SquareCalculatorApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\bin\Debug\SquareCalculatorApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\SquareCalculatorApp\obj\Debug\SquareCalculatorApp.pdb
